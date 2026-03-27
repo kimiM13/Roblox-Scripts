@@ -1,0 +1,23 @@
+[
+  { "name": "Hoho Hub", "game": "Blox Fruits", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_HUB/main/Start'))()" },
+  { "name": "Blueberry Hub", "game": "Rivals", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Blueberry/Hub/main/Rivals'))()" },
+  { "name": "Infinite Yield", "game": "Admin Tools", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Edgeiy/infiniteyield/master/source'))()" },
+  { "name": "Speed Hub", "game": "Blox Fruits", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SpeedHub/Main/main/Start'))()" },
+  { "name": "Dark Hub", "game": "Pet Simulator 99", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkHub/Main/main/Source'))()" },
+  { "name": "Atomic Hub", "game": "Brookhaven", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Atomic/Hub/main/Brookhaven'))()" },
+  { "name": "Redz Hub", "game": "Blox Fruits", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/realredz/R_Hub/main/Main'))()" },
+  { "name": "Solaris Hub", "game": "Pet Simulator 99", "code": "loadstring(game:HttpGet('https://solarishub.dev/script.lua'))()" },
+  { "name": "Owl Hub", "game": "All Games", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.lua'))()" },
+  { "name": "Zaque Hub", "game": "Bedwars", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Zaque/Hub/main/Bedwars'))()" },
+  { "name": "Ghost Hub", "game": "Doors", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Ghost/Hub/main/Doors'))()" },
+  { "name": "Venyx UI", "game": "All Games", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Venyx/UI/main/Source'))()" },
+  { "name": "Neva Hub", "game": "Blox Fruits", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Neva/Hub/main/Main'))()" },
+  { "name": "Banana Hub", "game": "Blox Fruits", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/BananaHub/Main/main/Start'))()" },
+  { "name": "Arcane Hub", "game": "Rivals", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Arcane/Hub/main/Source'))()" },
+  { "name": "Black Trap", "game": "Brookhaven", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/BlackTrap/Main/main/Start'))()" },
+  { "name": "Thunder Z", "game": "Blox Fruits", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ThunderZ/Main/main/Start'))()" },
+  { "name": "Mokuro Hub", "game": "Blox Fruits", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Mokuro/Hub/main/Main'))()" },
+  { "name": "Vander Hub", "game": "Rivals", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Vander/Hub/main/Rivals'))()" },
+  { "name": "EpicPlay Hub V1", "game": "Blox Fruits", "code": "loadstring(game:HttpGet('https://raw.githubusercontent.com/kimiM13/Roblox-Scripts/main/AutoFarm.lua'))()" }
+]
+
